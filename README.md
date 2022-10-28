@@ -3,10 +3,10 @@
 ## A Resposive and attractive portfolio for Developers 🔥
 A clean, beautiful and responsive portfolio templete with using only HTML and css.
 Later on add some javascript for animation and designing.
-visit the website [here.](https://wyllymk.github.io/portfolio-website/)
+visit the website [here.](https://wyllymk.github.io/newport/)
 
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/53833570/87217363-f9e6ff00-c365-11ea-9e1a-4d017964f2b4.gif)
+![FireShot Capture 002 - Wilson's Portfolio - wyllymk github io](https://user-images.githubusercontent.com/43001460/198528899-c7ee6341-a039-47af-97ea-a5e448877ac8.png)
 
 ## Sections:
 💥 About me\
