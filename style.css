@@ -1,4 +1,11 @@
-
+.dark-mode{
+  background-color: black;
+  color: white;
+}
+.light-mode{
+  background-color: white;
+  color: black;
+}
 body{
     font-family: 'Open Sans', sans-serif;
     margin: 0;
