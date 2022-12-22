@@ -6,9 +6,9 @@
 body{
     font-family: 'Open Sans', sans-serif;
     margin: 0;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     padding: 25px;
-    color: black;
+    color: rgb(255, 255, 255);
   }
 .body_section{
     padding : 3% 5% 1%;
