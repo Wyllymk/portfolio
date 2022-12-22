@@ -2,13 +2,12 @@
   background-color: black;
   color: white;
 }
-.light-mode{
-  
-}
+
 body{
     font-family: 'Open Sans', sans-serif;
     margin: 0;
     background-color: white;
+    padding: 25px;
     color: black;
   }
 .body_section{
