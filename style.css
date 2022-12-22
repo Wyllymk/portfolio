@@ -3,12 +3,13 @@
   color: white;
 }
 .light-mode{
-  background-color: white;
-  color: black;
+  
 }
 body{
     font-family: 'Open Sans', sans-serif;
     margin: 0;
+    background-color: white;
+    color: black;
   }
 .body_section{
     padding : 3% 5% 1%;
